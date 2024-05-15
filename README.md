@@ -1,4 +1,4 @@
-# SimpleAllocator (My first cpp project)
+# SimpleAllocator 
 
 ## Overview
 
@@ -261,3 +261,4 @@ int main() {
 
 
 I was inspired to do a cpp version of this project by this article: https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory by : https://github.com/arjun024/memalloc
+
